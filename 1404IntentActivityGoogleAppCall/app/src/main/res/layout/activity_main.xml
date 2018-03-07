@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.itwill.intent.activity.google.app.call.MainActivity">
+
+    <LinearLayout
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_marginBottom="16dp"
+        android:layout_marginEnd="16dp"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <Button
+            android:id="@+id/dialerB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DialerActivity호출"
+            android:onClick="xxx"
+            />
+
+        <Button
+            android:id="@+id/smsB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="SMSSendActivity"
+            android:onClick="xxx"/>
+
+        <Button
+            android:id="@+id/googleMapB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="GoogleMapActivity"
+            android:onClick="xxx"/>
+
+
+        <Button
+            android:id="@+id/webSearchB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="BrowserActivity"
+            android:onClick="xxx"/>
+
+        <Button
+            android:id="@+id/audioPickB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="오디오 선택하기"
+            android:onClick="xxx"/>
+
+
+        <Button
+            android:id="@+id/audioPlayB"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="오디오 재생하기" />
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
