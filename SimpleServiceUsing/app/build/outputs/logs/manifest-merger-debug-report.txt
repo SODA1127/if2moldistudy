@@ -1,0 +1,63 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:2:1-25:12
+INJECTED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:2:1-25:12
+	package
+		ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:4:2-34
+		INJECTED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:6:2-27
+		INJECTED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:3:2-48
+	xmlns:android
+		ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:5:2-25
+		INJECTED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:8:2-24:16
+	android:enabled
+		ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:11:3-25
+	android:label
+		ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:10:3-35
+	android:icon
+		ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:9:3-32
+activity#com.pyo.simple.service.NewsSimpleLaunchActivity
+ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:12:3-21:14
+	android:label
+		ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:14:4-36
+	android:name
+		ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:13:4-44
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:15:4-20:20
+action#android.intent.action.MAIN
+ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:16:5-17:50
+	android:name
+		ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:17:6-47
+category#android.intent.category.LAUNCHER
+ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:18:5-19:56
+	android:name
+		ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:19:6-53
+service#com.pyo.simple.service.NewsSimpleService
+ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:22:3-23:61
+	android:enabled
+		ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:23:4-26
+	android:name
+		ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml:23:27-59
+uses-sdk
+INJECTED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml
+INJECTED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml
+		ADDED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml
+		INJECTED from C:\If_2th\3_12_\SimpleServiceUsing\app\src\main\AndroidManifest.xml

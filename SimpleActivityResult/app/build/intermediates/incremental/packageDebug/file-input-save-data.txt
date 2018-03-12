@@ -1,0 +1,27 @@
+#Internal package file, do not edit.
+#Wed Sep 06 10:33:02 KST 2017
+2.base=C\:\\T_Academy_Example\\Beginning\\3_6_SimpleActivityResult\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\T_Academy_Example\\Beginning\\3_6_SimpleActivityResult\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\tara_eun_jung.jpg
+5.set=ANDROID_RESOURCE
+3.base=C\:\\T_Academy_Example\\Beginning\\3_6_SimpleActivityResult\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+6.file=C\:\\T_Academy_Example\\Beginning\\3_6_SimpleActivityResult\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\request_layout.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\T_Academy_Example\\Beginning\\3_6_SimpleActivityResult\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\T_Academy_Example\\Beginning\\3_6_SimpleActivityResult\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+7.set=ANDROID_RESOURCE
+count=8
+0.file=C\:\\T_Academy_Example\\Beginning\\3_6_SimpleActivityResult\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\icon.png
+5.base=C\:\\T_Academy_Example\\Beginning\\3_6_SimpleActivityResult\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.set=ANDROID_RESOURCE
+6.base=C\:\\T_Academy_Example\\Beginning\\3_6_SimpleActivityResult\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\T_Academy_Example\\Beginning\\3_6_SimpleActivityResult\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_result_layout.xml
+1.set=ANDROID_RESOURCE
+7.base=C\:\\T_Academy_Example\\Beginning\\3_6_SimpleActivityResult\\app\\build\\intermediates\\res\\resources-debug.ap_
+2.file=C\:\\T_Academy_Example\\Beginning\\3_6_SimpleActivityResult\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\tara_jee_yeon.jpg
+6.set=ANDROID_RESOURCE
+0.base=C\:\\T_Academy_Example\\Beginning\\3_6_SimpleActivityResult\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\T_Academy_Example\\Beginning\\3_6_SimpleActivityResult\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+3.set=DEX
+1.base=C\:\\T_Academy_Example\\Beginning\\3_6_SimpleActivityResult\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\T_Academy_Example\\Beginning\\3_6_SimpleActivityResult\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+0.set=ANDROID_RESOURCE
